@@ -79,7 +79,7 @@ I enjoy building futuristic UI, intelligent systems, and tools that feel ahead o
 
 ---
 
-# 📊 GitHub Stats (Neon Edition)
+# 📊 GitHub Stats 
 
 <div align="center">
 
@@ -91,17 +91,8 @@ I enjoy building futuristic UI, intelligent systems, and tools that feel ahead o
 
 </div>
 
----
 
-# 🏆 Achievement Showcase (Fixed Trophy)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krrish175-byte&theme=matrix&no-frame=true&margin-w=18" />
-</p>
-
----
-
-# 🐍 Snake Animation (Auto-Generated Daily)
+# 🐍 Snake Animation 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/krrish175-byte/krrish175-byte/output/snake.svg" width="100%" />
@@ -110,10 +101,9 @@ I enjoy building futuristic UI, intelligent systems, and tools that feel ahead o
 ---
 
 # 🔗 Connect With Me  
-(Add your LinkedIn here)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linkedin,github" height="55" />
+ <href url="https://www.linkedin.com/in/krrish-biswas-797420380/"> <img src="https://skillicons.dev/icons?i=linkedin,github" height="55" /></href>
 </p>
 
 ---
