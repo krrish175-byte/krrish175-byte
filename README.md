@@ -1,8 +1,3 @@
-<!-- ====================== FULL-WIDTH NEON GLOWING BANNER ====================== -->
-
-<p align="center">
-  <img src="/mnt/data/5629315D-9EDB-4604-8207-5E427639386F.png" width="100%" style="border-radius: 8px; box-shadow: 0 0 25px #00f7ff;">
-</p>
 
 <!-- ====================== ANIMATED INTRO ====================== -->
 
