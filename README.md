@@ -1,129 +1,115 @@
-
-<!-- ========================== FUTURISTIC NEON BANNER ========================== -->
+<!-- ====================== FULL-WIDTH NEON GLOWING BANNER ====================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=33&duration=3200&color=00F7FF&center=true&vCenter=true&width=900&lines=Krrish+Biswas;Developer+%7C+Open+Source+Contributor+%7C+Engineer;AI+Tools+Builder+%7C+Mobile+%26+Web+Developer;Futuristic+Mindset+%7C+Always+Learning" />
+  <img src="/mnt/data/5629315D-9EDB-4604-8207-5E427639386F.png" width="100%" style="border-radius: 8px; box-shadow: 0 0 25px #00f7ff;">
+</p>
+
+<!-- ====================== ANIMATED INTRO ====================== -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+👋+I'm+Krrish+Biswas;Developer+%7C+Open+Source+Contributor+%7C+Engineer;Mobile+%26+Web+Developer;AI+Tools+Builder+%7C+Futuristic+Thinker" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20Source-LFX%20Contributor-00F7FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React%20Native-Mobile%20Developer-7DF9FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Tools-Builder-00F7FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mobile%20Developer-React%20Native-7DF9FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/India-%F0%9F%87%AE%F0%9F%87%B3-green?style=for-the-badge" />
 </p>
 
 ---
 
-# ✨ Who Am I?
+# ⚡ About Me
 
-I’m **Krrish**, a developer who mixes **creativity**, **AI**, and **clean engineering** to build meaningful tools.  
-I love futuristic UI, automation, AI assistants, dashboards, and anything that feels **ahead of its time**.
+I’m **Krrish**, a developer who loves mixing engineering + creativity to build  
+**AI tools**, **mobile apps**, **automation systems**, and **smart dashboards**.
 
-**I turn ideas → into prototypes → into real products.**
+I enjoy building futuristic UI, intelligent systems, and tools that feel ahead of their time.
+
+💼 **Currently:**
+- 🟦 Working on **Meshery (LFX)** with **GoLang**
+- 📱 Building mobile apps with **React Native**
+- 🤖 Developing AI-driven assistants
+- 🌐 Creating dashboards + automation tools
 
 ---
 
-# 🚀 Tech Arsenal 
+# 🚀 Tech Arsenal (Neon Edition)
 
 ### **Languages**
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,go,cpp" height="55" />
 </p>
 
-### **Frontend / Mobile**
+### **Frontend & Mobile**
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,reactnative,nextjs" height="55" />
 </p>
 
-### **Backend / Databases**
+### **Databases & Cloud**
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb,sqlite,postgres" height="55" />
   <img src="https://img.shields.io/badge/IndexedDB-0a84ff?style=for-the-badge&logo=database&logoColor=white" />
 </p>
 
-### **Tools & Platforms**
+### **Tools & DevOps**
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,bash" height="55" />
 </p>
 
 ---
 
-# 💡 What I Am Currently Learning
-- Advanced **GoLang** module internals  
-- AI pipeline integration in **React Native**  
-- High-performance **backend APIs**  
-- IndexedDB + PWA offline storage  
-- Realtime dashboards & visualization  
+# 🌟 Featured Projects
+
+## 🔹 **Meshery (LFX) — GoLang**
+> Improving modules, refactoring code, and enhancing developer experience.  
+**Tech:** Go | APIs | Open Source
 
 ---
 
-# 🎯 What I Want to Build Next
-- A cross-platform **AI productivity agent**  
-- A mobile app for **daily gamified habit tracking**  
-- A **smart city digital twin dashboard**  
-- A full **Meshery plugin**  
+## 🔹 **AI Crop Scanner (React Native + ML API)**
+> Scans leaves → detects disease → recommends pesticide.  
+**Tech:** React Native | ML API | Sensors
 
 ---
 
-# 🌟 Featured Projects 
-
-### 🔹 **Meshery (LFX) — GoLang**
-> Improving modules, refactoring code, boosting developer experience.  
-**Tech:** Go | APIs | OSS
+## 🔹 **Jarvis — AI Assistant (Python)**
+> Personal AI with face detection, motion alerts, voice commands, automation.  
+**Tech:** Python | OpenCV | Speech Recognition
 
 ---
 
-### 🔹 **AI Crop Scanner (React Native + ML API)**
-> Scan → detect disease → suggest treatment.  
-Built for Smart India Hackathon.  
-**Tech:** RN | ML API | Sensors  
+## 🔹 **Smart City Dashboard**
+> Live pollution, traffic, AI assistant, chat system, complaint portal.  
+**Tech:** JS | APIs | Data Visualization
 
 ---
 
-### 🔹 **Jarvis — AI Assistant (Python)**  
-> A personal AI with: face detection, motion alerts, voice commands, camera control.  
-**Tech:** Python | OpenCV | Speech Recognition  
-
----
-
-### 🔹 **Smart City Dashboard**
-> Live traffic, pollution data, AI assistant, community chat, complaint portal  
-**Tech:** JS | APIs | Visualization  
-
----
-
-### 🔹 **Open-Source Contributions**
-- Microsoft Terminal  
-- Excalidraw  
-- Meshery  
-- Community-driven PRs across multiple orgs  
-
----
-
-# 🔥 My Development Philosophy
-
-> **“Build fast. Break things. Learn everything. Level up continuously.”**  
-> **“Never stop creating.”**
-
----
-
-# 📊 GitHub Stats (Premium Neon Setup)
+# 📊 GitHub Stats (Neon Edition)
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=krrish175-byte&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=krrish175-byte&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF" />
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=krrish175-byte&theme=black-ice&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=krrish175-byte&theme=black-ice&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krrish175-byte&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krrish175-byte&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF" />
 
 </div>
 
 ---
 
-# 🏆 Achievement Showcase
+# 🏆 Achievement Showcase (Fixed Trophy)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=krrish175-byte&theme=matrix&no-frame=true&margin-w=18" />
+</p>
+
+---
+
+# 🐍 Snake Animation (Auto-Generated Daily)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/krrish175-byte/krrish175-byte/output/snake.svg" width="100%" />
 </p>
 
 ---
@@ -137,4 +123,4 @@ Built for Smart India Hackathon.
 
 ---
 
-<h3 align="center">⭐ Enjoy my work? Give my repos a star! It keeps me motivated ⚡</h3>
+<h3 align="center">⭐ If you like my work, consider starring my repositories! ⚡</h3>
