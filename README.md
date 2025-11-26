@@ -21,14 +21,14 @@ I’m **Krrish**, a developer who loves mixing engineering + creativity to build
 I enjoy building futuristic UI, intelligent systems, and tools that feel ahead of their time.
 
 💼 **Currently:**
-- 🟦 Working on **Meshery (LFX)** with **GoLang**
+- 🟦 Working on **Meshery** with **GoLang**
 - 📱 Building mobile apps with **React Native**
 - 🤖 Developing AI-driven assistants
 - 🌐 Creating dashboards + automation tools
 
 ---
 
-# 🚀 Tech Arsenal (Neon Edition)
+# 🚀 Tech Arsenal
 
 ### **Languages**
 <p>
