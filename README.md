@@ -2,7 +2,7 @@
 <!-- ====================== ANIMATED INTRO ====================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+👋+I'm+Krrish+Biswas;Developer+%7C+Open+Source+Contributor+%7C+Engineer;Mobile+%26+Web+Developer;AI+Tools+Builder+%7C+Futuristic+Thinker" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+I'm+Krrish+Biswas;Developer+%7C+Open+Source+Contributor+%7C+Engineer;Mobile+%26+Web+Developer;AI+Tools+Builder+%7C+Futuristic+Thinker" />
 </p>
 
 <p align="center">
@@ -55,7 +55,7 @@ I enjoy building futuristic UI, intelligent systems, and tools that feel ahead o
 
 # 🌟 Featured Projects
 
-## 🔹 **Meshery (LFX) — GoLang**
+## 🔹 **Meshery — GoLang**
 > Improving modules, refactoring code, and enhancing developer experience.  
 **Tech:** Go | APIs | Open Source
 
@@ -90,9 +90,6 @@ I enjoy building futuristic UI, intelligent systems, and tools that feel ahead o
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krrish175-byte&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF" />
 
 </div>
-
-
-# 🐍 Snake Animation 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/krrish175-byte/krrish175-byte/output/snake.svg" width="100%" />
