@@ -1,109 +1,107 @@
-# Hi, I'm Krrish 👋
-**Software Developer | AI & Web Technologies | Open Source Advocate**
+<!-- HEADER -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Krrish+Biswas;Developer+%7C+AI+%7C+Web+Engineer;Open+Source+Contributor;Problem+Solver+%26+Tech+Enthusiast" />
 
-Welcome to my GitHub profile! I'm passionate about solving real-world problems with clean code, machine learning, and productivity-focused engineering.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=krrish175-byte&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/krrish175-byte?style=for-the-badge" />
+</p>
 
 ---
 
 ## About Me
-- Developer with hands-on experience in **open source tooling, AI/ML, and full stack projects**
-- Comfortable building **end-to-end solutions**, from concept to deployment
-- Passionate about **Python, GPU-accelerated applications, and impactful tech**
-- I enjoy **collaborating, learning fast, and shipping quality software**
+Highly driven developer focused on **AI systems, GPU-accelerated Python tooling, and full-stack engineering.**  
+Experience includes:
+
+- Contributing to **FOSSology** (open-source license compliance project)
+- Building a **GPU-powered offline Python debugger (no APIs)**
+- Developed **AgroCrop (SIH Project)** – mobile plant disease detection + medication suggestions
+
+Always learning, shipping, and optimizing code.
 
 ---
 
-## Tech Arsenal
+## Tech Stack
 
-#### Languages
+### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=py,js,ts,html,css,cpp" />
+<img src="https://skillicons.dev/icons?i=py,js,ts,cpp,html,css&theme=dark" />
 </p>
 
-#### Frameworks & Libraries
+### Frameworks & Libraries
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,flask,fastapi,opencv,torch" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,flask,fastapi,opencv,pytorch&theme=dark" />
 </p>
 
-#### Tools & Platforms
+### DevOps & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vim,vscode" />
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,bash&theme=dark" />
 </p>
+
+---
+
+## GitHub Trophy Case
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=krrish175-byte&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+## GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krrish175-byte&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krrish175-byte&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=krrish175-byte&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krrish175-byte&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## Open-Source Engagement
+- Heavy research and contributions in **FOSSology**
+- Interested in **DevSecOps & automation**
+- Always available for collaborative work
 
 ---
 
 ## Featured Projects
 
-### 1. **Fossology Contributions**
-Open source work focused on license compliance and software insights.
-- Contributed to modules, fixes, and architecture improvements
-- Engaged with community and code quality reviews
-- (Add actual repo links, examples, or PR references here)
+### Offline GPU Python Debugger
+A custom debugging environment that runs completely local on **GPU**, no API calls.
 
-**Repository:** `[link to your Fossology-related fork or contributions]`
+### Agrocrop (SIH Project)
+Camera-based crop disease analysis + prescription intelligence.
 
----
+### Fossology Development
+Open-source contributions toward license intelligence.
 
-### 2. **Offline GPU Python Debugger**
-A custom Python debugging environment designed to run **fully offline** leveraging **GPU acceleration**.
-- No external API dependencies
-- Fully local interactive debugging workflows
-- Designed for performance and privacy
-
-**Repository:** `[link here]`
+(Add links when pasting in.)
 
 ---
 
-### 3. **AgroCrop (SIH Project)**
-AI-powered plant disease detector using mobile camera input.
-- Scan plant crops using phone camera
-- AI model identifies disease patterns
-- Provides **medication recommendations**
-- Built with real-world deployment considerations
-
-**Repository:** `[link here]`
-
----
-
-### 4. Other Projects
-Include other notable work here with short blurbs.
-
-- **Project Name** — Brief description  
-  `[link here]`
-
----
-
-## GitHub Stats
-
+## Snake Eating Contributions
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krrish175-byte&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krrish175-byte&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=krrish175-byte&theme=tokyonight"/>
-</p>
-
----
-
-## Skills & Expertise
-- Python & Machine Learning
-- GPU-centric solutions (CUDA / PyTorch)
-- Web stacks: React / Flask / FastAPI
-- Debugging & Performance Optimization
-- Open Source and Collaborative Development
 
 ---
 
 ## Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/krrish-biswas-797420380/"><img src="https://skillicons.dev/icons?i=linkedin" height="30"></a>
-  &nbsp;
-  <a href="mailto:krrishbiswas175@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30"></a>
-  &nbsp;
+<p align="center">
+  <a href="https://www.linkedin.com/in/krrish-biswas-797420380/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40" /></a>
+  <a href="mailto:krrishbiswas175@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40" /></a>
 </p>
 
----
+<br>
 
-**Build fast. Learn continuously. Share openly.**
+<p align="center">
+  <b>“Build bravely. Ship fast. Learn always.”</b>
+</p>
