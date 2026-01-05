@@ -58,13 +58,6 @@ Always learning, shipping, and optimizing code.
 
 ---
 
-## Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krrish175-byte&theme=react-dark&hide_border=true" />
-</p>
-
----
-
 ## Open-Source Engagement
 - Heavy research and contributions in **FOSSology**
 - Interested in **DevSecOps & automation**
@@ -82,15 +75,6 @@ Camera-based crop disease analysis + prescription intelligence.
 
 ### Fossology Development
 Open-source contributions toward license intelligence.
-
-(Add links when pasting in.)
-
----
-
-## Snake Eating Contributions
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 ---
 
