@@ -1,6 +1,6 @@
 ### Hi, I'm Krrish Biswas
 
-Software engineer focused on open-source tooling and software supply chain security — SBOMs, dependency integrity, and policy-as-code. Currently a Computer Science student at Polaris School of Technology.
+Software engineer focused on open-source tooling and software supply chain security — SBOMs, dependency integrity, and policy-as-code. Currently a Computer Science student.
 
 I'm part of Google Summer of Code 2026, working with FOSSology on the CycloneDX SBOM agent, and LFX Mentorship 2026, working with OpenSSF/Minder on policy evaluation tooling.
 
